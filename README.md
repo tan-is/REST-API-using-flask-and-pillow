@@ -33,7 +33,7 @@ You are free to choose any color,format aur a random height and width and it wil
 
 <h3>License</h3>
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the <a href="LICENSE.txt">LICENSE</a> file for details.
 
 <h3>Acknowledgments</h3>
 
